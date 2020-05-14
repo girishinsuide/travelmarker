@@ -1,0 +1,12 @@
+<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Stroke 1</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1499 -2825)">
+<g id="Stroke 1">
+<use xlink:href="#path0_stroke" transform="translate(1500 2826)" fill="#2E3092"/>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 13 6.99931C 13 10.3151 10.314 13 6.99931 13L 6.99931 15C 11.4183 15 15 11.4199 15 6.99931L 13 6.99931ZM 6.99931 13C 3.68614 13 1 10.3152 1 6.99931L -1 6.99931C -1 11.4198 2.58157 15 6.99931 15L 6.99931 13ZM 1 6.99931C 1 3.68614 3.68614 1 6.99931 1L 6.99931 -1C 2.58157 -1 -1 2.58157 -1 6.99931L 1 6.99931ZM 6.99931 1C 10.314 1 13 3.68627 13 6.99931L 15 6.99931C 15 2.58144 11.4183 -1 6.99931 -1L 6.99931 1Z"/>
+</defs>
+</svg>

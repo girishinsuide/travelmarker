@@ -1,0 +1,22 @@
+<svg width="22" height="22" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>printer</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-2910 -7480)">
+<g id="printer">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="translate(2915 7481)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="translate(2911 7488)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="translate(2915 7493)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 12 0L 13 0L 13 -1L 12 -1L 12 0ZM 1 7L 1 0L -1 0L -1 7L 1 7ZM 0 1L 12 1L 12 -1L 0 -1L 0 1ZM 11 0L 11 7L 13 7L 13 0L 11 0Z"/>
+<path id="path1_stroke" d="M 0 7L -1 7L 0 7ZM 2 0L 2 1L 2 0ZM 4 8L 2 8L 2 10L 4 10L 4 8ZM 2 8C 1.73478 8 1.48043 7.89464 1.29289 7.70711L -0.12132 9.12132C 0.441288 9.68393 1.20435 10 2 10L 2 8ZM 1.29289 7.70711C 1.10536 7.51957 1 7.26522 1 7L -1 7C -1 7.79565 -0.68393 8.55871 -0.12132 9.12132L 1.29289 7.70711ZM 1 7L 1 2L -1 2L -1 7L 1 7ZM 1 2C 1 1.73478 1.10536 1.48043 1.29289 1.29289L -0.12132 -0.12132C -0.68393 0.441289 -1 1.20435 -1 2L 1 2ZM 1.29289 1.29289C 1.48043 1.10536 1.73478 1 2 1L 2 -1C 1.20435 -1 0.441288 -0.683929 -0.12132 -0.12132L 1.29289 1.29289ZM 2 1L 18 1L 18 -1L 2 -1L 2 1ZM 18 1C 18.2652 1 18.5196 1.10536 18.7071 1.29289L 20.1213 -0.12132C 19.5587 -0.683929 18.7957 -1 18 -1L 18 1ZM 18.7071 1.29289C 18.8946 1.48043 19 1.73478 19 2L 21 2C 21 1.20435 20.6839 0.441289 20.1213 -0.12132L 18.7071 1.29289ZM 19 2L 19 7L 21 7L 21 2L 19 2ZM 19 7C 19 7.26522 18.8946 7.51957 18.7071 7.70711L 20.1213 9.12132C 20.6839 8.55871 21 7.79565 21 7L 19 7ZM 18.7071 7.70711C 18.5196 7.89464 18.2652 8 18 8L 18 10C 18.7957 10 19.5587 9.68393 20.1213 9.12132L 18.7071 7.70711ZM 18 8L 16 8L 16 10L 18 10L 18 8Z"/>
+<path id="path2_stroke" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 12 0L 13 0L 13 -1L 12 -1L 12 0ZM 12 8L 12 9L 13 9L 13 8L 12 8ZM 0 8L -1 8L -1 9L 0 9L 0 8ZM 0 1L 12 1L 12 -1L 0 -1L 0 1ZM 11 0L 11 8L 13 8L 13 0L 11 0ZM 12 7L 0 7L 0 9L 12 9L 12 7ZM 1 8L 1 0L -1 0L -1 8L 1 8Z"/>
+</defs>
+</svg>

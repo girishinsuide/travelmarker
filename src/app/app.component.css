@@ -1,0 +1,11 @@
+agm-map {
+  height: 100vh;
+}
+
+#map {
+        height:100vh;
+      }
+
+       html { height: 100% }
+    body { height: 100%; margin: 5px; }
+    

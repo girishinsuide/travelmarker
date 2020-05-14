@@ -1,0 +1,22 @@
+<svg width="22" height="20" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>bar-chart</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-428 -5443)">
+<g id="bar-chart">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="translate(445 5444)" fill="#2E3092"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="translate(437 5449)" fill="#2E3092"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="translate(429 5454)" fill="#2E3092"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 4 0L 5 0L 5 -1L 4 -1L 4 0ZM 4 18L 4 19L 5 19L 5 18L 4 18ZM 0 18L -1 18L -1 19L 0 19L 0 18ZM 0 1L 4 1L 4 -1L 0 -1L 0 1ZM 3 0L 3 18L 5 18L 5 0L 3 0ZM 4 17L 0 17L 0 19L 4 19L 4 17ZM 1 18L 1 0L -1 0L -1 18L 1 18Z"/>
+<path id="path1_stroke" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 4 0L 5 0L 5 -1L 4 -1L 4 0ZM 4 13L 4 14L 5 14L 5 13L 4 13ZM 0 13L -1 13L -1 14L 0 14L 0 13ZM 0 1L 4 1L 4 -1L 0 -1L 0 1ZM 3 0L 3 13L 5 13L 5 0L 3 0ZM 4 12L 0 12L 0 14L 4 14L 4 12ZM 1 13L 1 0L -1 0L -1 13L 1 13Z"/>
+<path id="path2_stroke" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 4 0L 5 0L 5 -1L 4 -1L 4 0ZM 4 8L 4 9L 5 9L 5 8L 4 8ZM 0 8L -1 8L -1 9L 0 9L 0 8ZM 0 1L 4 1L 4 -1L 0 -1L 0 1ZM 3 0L 3 8L 5 8L 5 0L 3 0ZM 4 7L 0 7L 0 9L 4 9L 4 7ZM 1 8L 1 0L -1 0L -1 8L 1 8Z"/>
+</defs>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="20" height="20" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>plus-square</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3256 -8102)">
+<g id="plus-square">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="translate(3257 8103)" fill="#2F80ED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="matrix(0.707107 0.707107 -0.707107 0.707107 3268.83 8109.17)" fill="#2F80ED"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_stroke" transform="matrix(0.707107 0.707107 -0.707107 0.707107 3263.17 8109.17)" fill="#2F80ED"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 2 1L 16 1L 16 -1L 2 -1L 2 1ZM 16 1C 16.5523 1 17 1.44772 17 2L 19 2C 19 0.343146 17.6569 -1 16 -1L 16 1ZM 17 2L 17 16L 19 16L 19 2L 17 2ZM 17 16C 17 16.5523 16.5523 17 16 17L 16 19C 17.6569 19 19 17.6569 19 16L 17 16ZM 16 17L 2 17L 2 19L 16 19L 16 17ZM 2 17C 1.44772 17 1 16.5523 1 16L -1 16C -1 17.6569 0.343146 19 2 19L 2 17ZM 1 16L 1 2L -1 2L -1 16L 1 16ZM 1 2C 1 1.44772 1.44772 1 2 1L 2 -1C 0.343146 -1 -1 0.343146 -1 2L 1 2Z"/>
+<path id="path1_stroke" d="M 1 0L 1 -1L -1 -1L -1 0L 1 0ZM -1 8L -1 9L 1 9L 1 8L -1 8ZM -1 0L -1 8L 1 8L 1 0L -1 0Z"/>
+<path id="path2_stroke" d="M 0 -1L -1 -1L -1 1L 0 1L 0 -1ZM 8 1L 9 1L 9 -1L 8 -1L 8 1ZM 0 1L 8 1L 8 -1L 0 -1L 0 1Z"/>
+</defs>
+</svg>
